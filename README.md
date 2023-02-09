@@ -12,6 +12,7 @@ Ejemplo de Repositorio
 - [ ] Creación de Readme principal
 - [ ] Edición de Readme
 
+
 # Referencias
 Esta carpeta se basa en el siguiente material:
 - Material público del curso [Plataformas para ciencia de datos](https://github.com/UBC-MDS/DSCI_521_platforms-dsci) de UBC MDS.  
