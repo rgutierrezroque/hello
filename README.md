@@ -2,6 +2,8 @@
 
 Soy Ingeniero en Comunicaciones y Electrónica, me he especializado en temas de administración y finanazas. Actualmente me dedico a la adminsitración de Flotillas de transporte.
 
+Soy el compañero de equipo de Ricardo y me llamo Luis Vallarta, soy project manager y me encargo de implementar el software ServiceNow con clientes de EUA y México.
+
 ![](https://media.giphy.com/media/a93jwI0wkWTQs/giphy.gif)
 
 *[Source: GIPHY](https://media.giphy.com/media/a93jwI0wkWTQs/giphy.gif)*
